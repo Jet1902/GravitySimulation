@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/cursors">
+        <file alias="add">resources/cursors/addCursor.png</file>
+        <file alias="default">resources/cursors/defaultCursor.png</file>
+        <file alias="delete">resources/cursors/deleteCursor.png</file>
+        <file alias="select">resources/cursors/selectCursor.png</file>
+    </qresource>
+</RCC>
